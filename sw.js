@@ -1,4 +1,4 @@
-const CACHE_NAME = 'totoquest-v2';
+const CACHE_NAME = 'totoquest-v3';
 
 const ASSETS = [
   './',
